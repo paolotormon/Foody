@@ -12,7 +12,7 @@ const DUMMY_MEALS = [
   {
     id: "2",
     name: "Hungarian Sausage",
-    description: "Made from Ground Pork, arlic, black pepper, allspice",
+    description: "Made from Ground Pork, garlic, black pepper, allspice",
     price: 10.5,
   },
   {
